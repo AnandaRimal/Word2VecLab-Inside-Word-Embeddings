@@ -1,5 +1,10 @@
 # Word2Vec Workshop - Inside Word Embeddings
 
+**You must give credit to Ananda Rimal if you use these slides. Credit is required.**
+Licensed under CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
+
+---
+
 Workshop resources by Ananda Rimal, AI Researcher and ML Instructor
 
 A deep dive into the real mathematical training process behind the classic Google / Mikolov Word2Vec approach.
