@@ -1,4 +1,4 @@
-﻿# Word2Vec Workshop - Inside Word Embeddings
+# Word2Vec Workshop - Inside Word Embeddings
 
 Workshop resources by Ananda Rimal, AI Researcher and ML Instructor
 
@@ -42,6 +42,8 @@ Word2VecLab-Inside-Word-Embeddings/
 
 ## Workshop Slides
 
+**You must give credit to Ananda Rimal if you use these slides. Credit is required.**
+
 The slide deck (resources/word2vec by ananda rimal.pptx) walks through the intuition behind distributed word representations, step-by-step CBOW and Skip-gram architectures, the full forward pass with loss computation and weight update cycle, negative sampling in detail, and visual examples of learned embedding spaces.
 
 License: Slides and all educational content are released under CC BY 4.0. You are free to use, share, adapt, and build upon this material for any purpose, including commercially, as long as you give appropriate credit.
@@ -50,10 +52,10 @@ License: Slides and all educational content are released under CC BY 4.0. You ar
 
 When using or referencing these slides or any educational content from this workshop, you must include the following credit:
 
-`
+```
 Word2Vec Workshop Resources by Ananda Rimal | AI Researcher and ML Instructor
 Licensed under CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
-`
+```
 
 Anyone can use these slides, but credit to Ananda Rimal is required.
 
